@@ -1,0 +1,12 @@
+[package]
+name = "echo"
+version = "0.1.0"
+authors = ["Dominik Muc <git@dominikmuc.dev>"]
+license = "MIT"
+description = "Simple echo rewrite."
+repository = "https://github.com/dominik-muc/coreutils-rs"
+edition = "2021"
+readme = "../README.md"
+keywords = ["cli", "echo", "utils"]
+categories = ["cli", "utils"]
+rust-version = "1.79.0"
